@@ -1,0 +1,85 @@
+{
+    "Summary": {
+        "YooVersion": "",
+        "UnityVersion": "2021.3.19f1",
+        "BuildDate": "2024/4/30 15:39:01",
+        "BuildSeconds": 2,
+        "BuildTarget": 20,
+        "BuildPipeline": 0,
+        "BuildMode": 0,
+        "BuildPackageName": "AddOn1",
+        "BuildPackageVersion": "2024-04-30-938",
+        "EnableAddressable": false,
+        "UniqueBundleName": false,
+        "EncryptionServicesClassName": "YooAsset.Editor.EncryptionNone",
+        "OutputNameStyle": 1,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 4,
+        "MainAssetTotalCount": 2,
+        "AllBundleTotalCount": 2,
+        "AllBundleTotalSize": 11703273,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0,
+        "RawBundleTotalCount": 0,
+        "RawBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/AddOn1/Scene/test.unity",
+            "AssetGUID": "d31b04808cf114f9eb8ee32c54d9ac06",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdateresources_addon1_scene.bundle",
+            "MainBundleSize": 11701998,
+            "DependBundles": [],
+            "DependAssets": [
+                "Assets/HotUpdateResources/AddOn1/Scene/testSettings.lighting",
+                "Assets/HotUpdateResources/Main/Other/Fonts/MSYHBD.TTC"
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/AddOn1/Other/test.txt",
+            "AssetGUID": "e491ea95652da462a996b46fc860cdbb",
+            "AssetTags": [],
+            "MainBundleName": "assets_hotupdateresources_addon1_other.bundle",
+            "MainBundleSize": 1275,
+            "DependBundles": [],
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_hotupdateresources_addon1_scene.bundle",
+            "FileName": "467495e87039942abfaeefcac211d313.bundle",
+            "FileHash": "467495e87039942abfaeefcac211d313",
+            "FileCRC": "cc1241ed",
+            "FileSize": 11701998,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/HotUpdateResources/AddOn1/Scene/test.unity",
+                "Assets/HotUpdateResources/AddOn1/Scene/testSettings.lighting",
+                "Assets/HotUpdateResources/Main/Other/Fonts/MSYHBD.TTC"
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdateresources_addon1_other.bundle",
+            "FileName": "036bab15651f8e5a0c253ab44d08aaa8.bundle",
+            "FileHash": "036bab15651f8e5a0c253ab44d08aaa8",
+            "FileCRC": "2b98d1e6",
+            "FileSize": 1275,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [],
+            "AllBuiltinAssets": [
+                "Assets/HotUpdateResources/AddOn1/Other/test.txt"
+            ]
+        }
+    ]
+}

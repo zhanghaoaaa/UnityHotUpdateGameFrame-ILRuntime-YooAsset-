@@ -1,0 +1,90 @@
+ManifestFileVersion: 0
+CRC: 3880806321
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_hotupdateresources_main_scene.bundle
+      Dependencies:
+        Dependency_0: assets_hotupdateresources_main_other_fonts_msyhbd.bundle
+        Dependency_1: assets_hotupdateresources_main_other_images_background1.bundle
+        Dependency_2: assets_hotupdateresources_main_other_images_background4.bundle
+        Dependency_3: assets_hotupdateresources_main_other_images_bg_input0_n.bundle
+        Dependency_4: assets_hotupdateresources_main_other_images_bg_title1.bundle
+        Dependency_5: assets_hotupdateresources_main_other_images_bg_title2 .bundle
+        Dependency_6: assets_hotupdateresources_main_other_images_btn_mainmenu_n.bundle
+        Dependency_7: assets_hotupdateresources_main_other_images_icon_back1.bundle
+    Info_1:
+      Name: assets_hotupdateresources_main_dll.bundle
+      Dependencies: {}
+    Info_2:
+      Name: assets_hotupdateresources_main_common_controller.bundle
+      Dependencies: {}
+    Info_3:
+      Name: assets_hotupdateresources_main_common_material.bundle
+      Dependencies: {}
+    Info_4:
+      Name: assets_hotupdateresources_main_common_prefab.bundle
+      Dependencies: {}
+    Info_5:
+      Name: assets_hotupdateresources_main_common_scriptableobject.bundle
+      Dependencies: {}
+    Info_6:
+      Name: assets_hotupdateresources_main_other_audios_audio.bundle
+      Dependencies: {}
+    Info_7:
+      Name: assets_hotupdateresources_main_other_fonts_impact.bundle
+      Dependencies: {}
+    Info_8:
+      Name: assets_hotupdateresources_main_other_fonts_msyhbd.bundle
+      Dependencies: {}
+    Info_9:
+      Name: assets_hotupdateresources_main_other_images_background1.bundle
+      Dependencies: {}
+    Info_10:
+      Name: assets_hotupdateresources_main_other_images_background4.bundle
+      Dependencies: {}
+    Info_11:
+      Name: assets_hotupdateresources_main_other_images_background4_v2.bundle
+      Dependencies: {}
+    Info_12:
+      Name: assets_hotupdateresources_main_other_images_background5_v2.bundle
+      Dependencies: {}
+    Info_13:
+      Name: assets_hotupdateresources_main_other_images_bg_goodstitle.bundle
+      Dependencies: {}
+    Info_14:
+      Name: assets_hotupdateresources_main_other_images_bg_input0_n.bundle
+      Dependencies: {}
+    Info_15:
+      Name: assets_hotupdateresources_main_other_images_bg_title1.bundle
+      Dependencies: {}
+    Info_16:
+      Name: assets_hotupdateresources_main_other_images_bg_title2 .bundle
+      Dependencies: {}
+    Info_17:
+      Name: assets_hotupdateresources_main_other_images_btn_back_h.bundle
+      Dependencies: {}
+    Info_18:
+      Name: assets_hotupdateresources_main_other_images_btn_buy1_n.bundle
+      Dependencies: {}
+    Info_19:
+      Name: assets_hotupdateresources_main_other_images_btn_buy1_p.bundle
+      Dependencies: {}
+    Info_20:
+      Name: assets_hotupdateresources_main_other_images_btn_mainmenu_n.bundle
+      Dependencies: {}
+    Info_21:
+      Name: assets_hotupdateresources_main_other_images_btn_title_p.bundle
+      Dependencies: {}
+    Info_22:
+      Name: assets_hotupdateresources_main_other_images_icon_back1.bundle
+      Dependencies: {}
+    Info_23:
+      Name: assets_hotupdateresources_main_other_images_small title02_bg.bundle
+      Dependencies: {}
+    Info_24:
+      Name: assets_hotupdateresources_main_other_images_title2_bg.bundle
+      Dependencies: {}
+    Info_25:
+      Name: assets_hotupdateresources_main_other_textassets_empty.bundle
+      Dependencies: {}

@@ -1,0 +1,45 @@
+{
+    "FileVersion": "1.4.6",
+    "EnableAddressable": false,
+    "OutputNameStyle": 1,
+    "PackageName": "AddOn1",
+    "PackageVersion": "2024-04-30-938",
+    "AssetList": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/AddOn1/Scene/test.unity",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/AddOn1/Other/test.txt",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_hotupdateresources_addon1_scene.bundle",
+            "FileHash": "467495e87039942abfaeefcac211d313",
+            "FileCRC": "cc1241ed",
+            "FileSize": 11701998,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_addon1_other.bundle",
+            "FileHash": "036bab15651f8e5a0c253ab44d08aaa8",
+            "FileCRC": "2b98d1e6",
+            "FileSize": 1275,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        }
+    ]
+}

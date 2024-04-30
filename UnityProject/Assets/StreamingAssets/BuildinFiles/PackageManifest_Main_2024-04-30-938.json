@@ -1,0 +1,509 @@
+{
+    "FileVersion": "1.4.6",
+    "EnableAddressable": false,
+    "OutputNameStyle": 1,
+    "PackageName": "Main",
+    "PackageVersion": "2024-04-30-938",
+    "AssetList": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Scene/Game.unity",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependIDs": [
+                15,
+                14,
+                22,
+                20,
+                10,
+                8,
+                9,
+                16
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Dll/HotUpdateScripts.bytes",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Dll/HotUpdateScripts.pdb.bytes",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Common/Controller/Controller.txt",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Common/Material/Material.txt",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Common/Prefab/InstantiateDemo.prefab",
+            "AssetTags": [],
+            "BundleID": 4,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Common/Prefab/test.prefab",
+            "AssetTags": [],
+            "BundleID": 4,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Common/ScriptableObject/ScriptableObject.txt",
+            "AssetTags": [],
+            "BundleID": 5,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Audios/Audio.txt",
+            "AssetTags": [],
+            "BundleID": 6,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Fonts/impact.ttf",
+            "AssetTags": [],
+            "BundleID": 7,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Fonts/MSYHBD.TTC",
+            "AssetTags": [],
+            "BundleID": 8,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/background1.png",
+            "AssetTags": [],
+            "BundleID": 9,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/background4.png",
+            "AssetTags": [],
+            "BundleID": 10,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/background4_v2.png",
+            "AssetTags": [],
+            "BundleID": 11,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/background5_v2.png",
+            "AssetTags": [],
+            "BundleID": 12,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/bg_GoodsTitle.png",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/bg_Input0_n.png",
+            "AssetTags": [],
+            "BundleID": 14,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/bg_Title1.png",
+            "AssetTags": [],
+            "BundleID": 15,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/bg_Title2 .png",
+            "AssetTags": [],
+            "BundleID": 16,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/Btn_Back_h.png",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/Btn_Buy1_n.png",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/Btn_Buy1_p.png",
+            "AssetTags": [],
+            "BundleID": 19,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/Btn_MainMenu_n.png",
+            "AssetTags": [],
+            "BundleID": 20,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/Btn_Title_p.png",
+            "AssetTags": [],
+            "BundleID": 21,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/Icon_Back1.png",
+            "AssetTags": [],
+            "BundleID": 22,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/small title02_bg.png",
+            "AssetTags": [],
+            "BundleID": 23,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/Images/Title2_bg.png",
+            "AssetTags": [],
+            "BundleID": 24,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Other/TextAssets/empty.txt",
+            "AssetTags": [],
+            "BundleID": 25,
+            "DependIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/HotUpdateResources/Main/Raw/empty.txt",
+            "AssetTags": [],
+            "BundleID": 26,
+            "DependIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_hotupdateresources_main_scene.bundle",
+            "FileHash": "975666bdd3b055a6df32a06f8e1c5358",
+            "FileCRC": "e130bb6a",
+            "FileSize": 117231,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_dll.bundle",
+            "FileHash": "ac575ec0761eb6697d7e65e65af8a024",
+            "FileCRC": "b7a51b82",
+            "FileSize": 119974,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_common_controller.bundle",
+            "FileHash": "b1e33d13b969074b350ce20babf96c36",
+            "FileCRC": "6a4dfce0",
+            "FileSize": 1285,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_common_material.bundle",
+            "FileHash": "12e8c7707213e9b55ea8e212315d49d6",
+            "FileCRC": "9f5b33a4",
+            "FileSize": 1252,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_common_prefab.bundle",
+            "FileHash": "3cbc41320d701511c98fc9564d8c59db",
+            "FileCRC": "773fadab",
+            "FileSize": 2898,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_common_scriptableobject.bundle",
+            "FileHash": "bf06f792c446aeb9099539445fd0cefc",
+            "FileCRC": "3521f687",
+            "FileSize": 1269,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_audios_audio.bundle",
+            "FileHash": "cf456433cf36c5b3bbedb6dca84173fd",
+            "FileCRC": "8ced9483",
+            "FileSize": 1269,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_fonts_impact.bundle",
+            "FileHash": "3878bf0ba57e416f2ae185b4dbc09726",
+            "FileCRC": "e7c183c6",
+            "FileSize": 129959,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_fonts_msyhbd.bundle",
+            "FileHash": "3a0e1146e308dc839c398d4a1ce2cabc",
+            "FileCRC": "33b0d988",
+            "FileSize": 11694069,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                0
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_background1.bundle",
+            "FileHash": "30900cd4484f4e0fa7c5ee503b7457ce",
+            "FileCRC": "ba64531b",
+            "FileSize": 294200,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                0
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_background4.bundle",
+            "FileHash": "58110d94e7e18b1fb2b6b01b46ea4a0b",
+            "FileCRC": "b79a4cb1",
+            "FileSize": 233225,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                0
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_background4_v2.bundle",
+            "FileHash": "c0e0cf4ab96522a08f10507e3c171e6a",
+            "FileCRC": "4faa9a72",
+            "FileSize": 241812,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_background5_v2.bundle",
+            "FileHash": "896941e3a3df6314047415a18bec2020",
+            "FileCRC": "052a6134",
+            "FileSize": 282362,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_bg_goodstitle.bundle",
+            "FileHash": "34e14b580515f19524ee627c7ec48cfb",
+            "FileCRC": "3b0ac93a",
+            "FileSize": 12853,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_bg_input0_n.bundle",
+            "FileHash": "ec04edc99fc9e2ddd6e499859abd1524",
+            "FileCRC": "3642b486",
+            "FileSize": 4220,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                0
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_bg_title1.bundle",
+            "FileHash": "75571229c1830d6f8c51314f07874f79",
+            "FileCRC": "a3ba2621",
+            "FileSize": 7692,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                0
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_bg_title2 .bundle",
+            "FileHash": "da3b21d53c72fbf3751f717521900666",
+            "FileCRC": "0f795f27",
+            "FileSize": 7020,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                0
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_btn_back_h.bundle",
+            "FileHash": "f81e8afdc0ca77599f8f2b34d63cfe0e",
+            "FileCRC": "33a0f6d7",
+            "FileSize": 5981,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_btn_buy1_n.bundle",
+            "FileHash": "5b33df7e623dbd1d52a843e92aaaa185",
+            "FileCRC": "cfca7d86",
+            "FileSize": 16597,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_btn_buy1_p.bundle",
+            "FileHash": "df8cb34141aadb95861095c32771d7e1",
+            "FileCRC": "967f6774",
+            "FileSize": 17017,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_btn_mainmenu_n.bundle",
+            "FileHash": "8b1046ca1ff63d6d5f070da6b41da811",
+            "FileCRC": "4b900a0a",
+            "FileSize": 23781,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                0
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_btn_title_p.bundle",
+            "FileHash": "164a5a7c5c28df34c43f424819b6c642",
+            "FileCRC": "db823fd5",
+            "FileSize": 16637,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_icon_back1.bundle",
+            "FileHash": "567803e3cb39897443cfc1c79e9a0743",
+            "FileCRC": "b5b88a62",
+            "FileSize": 5030,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": [
+                0
+            ]
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_small title02_bg.bundle",
+            "FileHash": "33441474bba07328e382485cbea71520",
+            "FileCRC": "3eb0c202",
+            "FileSize": 8391,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_images_title2_bg.bundle",
+            "FileHash": "b36783f41423d358000217b75b2ef4ad",
+            "FileCRC": "ef9a08ec",
+            "FileSize": 132100,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_other_textassets_empty.bundle",
+            "FileHash": "9cbcbfb8becc8ca2a54a84d87da299f2",
+            "FileCRC": "c834762c",
+            "FileSize": 1225,
+            "IsRawFile": false,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        },
+        {
+            "BundleName": "assets_hotupdateresources_main_raw_empty_txt.rawfile",
+            "FileHash": "d41d8cd98f00b204e9800998ecf8427e",
+            "FileCRC": "00000000",
+            "FileSize": 0,
+            "IsRawFile": true,
+            "LoadMethod": 0,
+            "Tags": [],
+            "ReferenceIDs": []
+        }
+    ]
+}

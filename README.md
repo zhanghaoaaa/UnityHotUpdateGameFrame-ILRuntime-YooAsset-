@@ -4,6 +4,8 @@
 
 主要的开发框架是[JEngine](https://github.com/JasonXuDeveloper/JEngine)，然后我自己往其中加入了一些插件，比如日志的插件ConsolePro和Reporter，微信小游戏开发工具等等。
 
+[项目教程文档](https://docs.xgamedev.net/zh/documents/0.8/)
+
 ## Recommendations
 -  [JEngine](https://github.com/JasonXuDeveloper/JEngine) - JEngine
   - [IFramework](https://github.com/OnClick9927/IFramework) - Simple Unity Tools
